@@ -1,5 +1,10 @@
 # All-sort-ways-with-linked-lists-by-me
-my small project with C langage 
+//my small project with C langage 
+
+
+/////////////////////////////////////////////////////////// BY RAYANE BOUCHAIR //////////////////////////////////////////////////////////////////////////////
+
+////// 
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
